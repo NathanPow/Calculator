@@ -1,1 +1,1 @@
-Make a calculator website folling the foundation course from the odin project - https://www.theodinproject.com/lessons/foundations-calculator
+Make a calculator website following the foundation course calculator project from the odin project - https://www.theodinproject.com/lessons/foundations-calculator
